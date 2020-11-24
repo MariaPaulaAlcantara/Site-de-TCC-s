@@ -1,0 +1,59 @@
+.pesquisa  {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgray;
+    border-radius: 5px;
+    background: #F0FFFF;
+
+    /* Espaçamento esterno */
+    margin: 75px 75px 75px 75px;
+
+    /*Espaçamento interno */
+    padding: 10px 10px 10px 10px;
+
+}
+
+ /*form {
+    margin-left: 25px;
+}
+*/
+.resultado {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgray;
+    border-radius: 5px;
+    background: #F0FFFF;
+    /* Espaçamento esterno */
+    margin: 75px 75px 75px 75px;
+
+    /*Espaçamento interno */
+    padding: 10px 10px 10px 10px;
+    
+}
+
+.pesquisa p {
+    font-size:10px;
+    
+}
+
+.input_pesquisar {
+    margin-bottom: 30px;
+    border-radius: 5px;
+    border-color: darkgrey;
+    font-size: 15px;
+}
+ 
+.botaoapagar a {
+    color: 	#FF3030;
+}
+
+.enviar {
+    background:#6495ED;
+	color: white;
+    font-weight: bold;
+	font-size: 16px;
+	border: none;
+	border-radius: 5px;
+    cursor: pointer;
+    padding: 4px 4px;
+}
