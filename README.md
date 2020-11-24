@@ -1,2 +1,3 @@
-# Site-de-TCC-s
+# Site-de-TCC-s e link do site funcionando
 Site criado para um trabalho da faculdade, onde o objetivo do site é você cadastrar seu TCC e outras pessoas possam dar orientações sobre teu projeto.
+link:  http://gerenciadordetcc.epizy.com/index.php
